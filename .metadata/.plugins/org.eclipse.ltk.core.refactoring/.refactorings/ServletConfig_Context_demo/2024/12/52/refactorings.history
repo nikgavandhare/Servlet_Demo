@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.config.ServletContext.java&apos; to &apos;ServletContextDemo.java&apos;&#x0D;&#x0A;- Original project: &apos;ServletConfig_Context_demo&apos;&#x0D;&#x0A;- Original element: &apos;com.config.ServletContext.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.config.ServletContextDemo.java&apos;" description="Rename compilation unit &apos;ServletContext.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.config{ServletContext.java" name="ServletContextDemo.java" references="false" stamp="1735281486400" version="1.0"/>
+</session>

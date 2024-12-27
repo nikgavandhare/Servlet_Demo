@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" id="WebApp_ID" version="6.0">
+  <display-name>ServletConfig_ServletContext_Demo</display-name>
+<servlet>
+ 			<servlet-name>ABC</servlet-name>
+ 			<servlet-class>com.config.ServletContextDemo</servlet-class>
+ 
+  	
+  	<!--  for servlet config for single servlet  -->
+ 	<init-param>
+ 	
+ 			<param-name>name</param-name>
+ 			<param-value>NTC Technology</param-value>
+ 	
+ 	</init-param>
+ 
+ </servlet>
+ 
+ <servlet-mapping>
+ 				<servlet-name>ABC</servlet-name>
+ 				<url-pattern>/home</url-pattern>
+ 
+ 
+ </servlet-mapping>
+ 
+ 
+    <!-- for servlet context for entire web application -->
+ <context-param>
+ 
+ 				<param-name>name</param-name>
+ 				<param-value>Nikita</param-value>
+ 
+ 
+ </context-param>
+</web-app>
