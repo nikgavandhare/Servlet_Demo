@@ -1,8 +1,0 @@
-127.0.0.1 - - [27/Dec/2024:23:09:58 +0530] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [27/Dec/2024:23:10:02 +0530] "GET /JSP_Demo/ContactServlet HTTP/1.1" 405 751
-0:0:0:0:0:0:0:1 - - [27/Dec/2024:23:10:02 +0530] "GET /JSP_Demo/ContactServlet HTTP/1.1" 405 751
-0:0:0:0:0:0:0:1 - - [27/Dec/2024:23:10:20 +0530] "GET /JSP_Demo/ntctech.jsp HTTP/1.1" 200 4180
-0:0:0:0:0:0:0:1 - - [27/Dec/2024:23:10:26 +0530] "POST /JSP_Demo/ContactServlet HTTP/1.1" 200 39
-0:0:0:0:0:0:0:1 - - [27/Dec/2024:23:11:46 +0530] "GET /JSP_Demo/ntctech.jsp HTTP/1.1" 200 4180
-0:0:0:0:0:0:0:1 - - [27/Dec/2024:23:14:50 +0530] "GET /JSP_Demo/ntctech.jsp HTTP/1.1" 200 4180
-0:0:0:0:0:0:0:1 - - [27/Dec/2024:23:15:13 +0530] "POST /JSP_Demo/ContactServlet HTTP/1.1" 200 39
